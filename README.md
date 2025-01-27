@@ -1,1 +1,3 @@
 # personal-portafolio
+
+ESTO ES UN INICIO DEL PORTAFOLIO PERSONAL :D
